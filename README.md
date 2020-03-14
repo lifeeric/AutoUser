@@ -1,1 +1,3 @@
-AutoUser script for creating, removing, showing User
+# AutoUser script for creating, removing, showing User
+
+![image](./autouser.gif)
