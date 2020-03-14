@@ -3,7 +3,7 @@
 ![image](./autouser.gif)
 
 
-# Make the available to access as global, give permission
+# Make the file available to access as global, and give permission
 `chmod a+x autouser`
 then
 `sudo autouser /bin/`
